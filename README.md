@@ -1,9 +1,9 @@
-# Projet GitHub - Rayane Dahmani
+Projet GitHub ==) Rayane Dahmani
 
-Ce dépôt a été créé pour un laboratoire GitHub dans le cours de programmation.
+Ce depot a ete cree pour un laboratoire GitHub pour assurance logiciel et qualiter 
 
-## Lien du site web
+ Lien du site web
 
-👉 [Voir le site web ici](https://TON-USERNAME.github.io/labgitrayane)
+👉 [Voir le site web ici](https://github.com/rayanca/labgitrayan/settings/pages)
 
-> Le site contient une page web simple avec mon nom affiché.
+==) Le site contient une page web simple avec mon nom afficher.
